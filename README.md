@@ -1,6 +1,6 @@
 # sns-analytics-dashboard
 
-CSVから投稿の反応率を集計しHTMLレポートを作成。API連携なし。
+CSVから投稿の反応率を集計し、サマリーカード・ランキング・一覧を含む見やすいHTMLレポートを作成。API連携なし。
 
 Generate an offline HTML engagement dashboard from CSV. No live API.
 
